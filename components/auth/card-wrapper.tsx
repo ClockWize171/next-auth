@@ -1,6 +1,5 @@
 "use client";
 
-import { StringToBoolean } from "class-variance-authority/types";
 import { Card, CardContent, CardHeader, CardFooter } from "@/components/ui/card";
 import Header from "@/components/auth/header";
 import Social from "@/components/auth/social";
