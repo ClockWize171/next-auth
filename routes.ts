@@ -8,7 +8,7 @@ export const publicRoutes = ["/"];
  *Routes that require authentication
  *@type{string[]}
  */
-export const authRoutes = ["/auth/register", "auth/login"];
+export const authRoutes = ["/auth/register", "/auth/login", "/auth/error"];
 
 /**
  *Routes that used for API authentication process
